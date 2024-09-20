@@ -16,6 +16,7 @@ WebMovies is a responsive movie search application that uses **The Movie Databas
   - Orange for ratings between 5 and 7.9
   - Red for ratings < 5
 - **Interactive Overview**: Hover over a movie to view its detailed overview.
+- **Live Demo**: [WebMovies](https://web-movies-info.netlify.app/)
 
 ---
 
