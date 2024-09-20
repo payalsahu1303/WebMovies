@@ -31,4 +31,4 @@ WebMovies is a responsive movie search application that uses **The Movie Databas
 ## Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/webmovies.git
+   git clone https://github.com/payalsahu1303/WebMovies.git
